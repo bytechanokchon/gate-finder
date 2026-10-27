@@ -1,0 +1,6 @@
+@GateFinderAPI_HostAddress = http://localhost:5291
+
+GET {{GateFinderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
